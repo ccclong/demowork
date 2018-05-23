@@ -24,4 +24,8 @@ public class Test {
                 "name='" + name + '\'' +
                 '}';
     }
+
+    public void showdemo(){
+        System.out.print("test");
+    }
 }
